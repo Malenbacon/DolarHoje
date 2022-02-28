@@ -17,7 +17,5 @@ E abra o link que irá aparecer no console (localhost:3000)
 ## imagem do projeto:
 ![Resultado](Public/Images/resultado.jpg)
 
-## O que eu aprendi com esse projeto?
-- Ultizar APIs 
-- Como ultizar o Express
+
 
